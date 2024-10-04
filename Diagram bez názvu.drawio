@@ -4,8 +4,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KslFYSPMrBS0eJ-jhUQJ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="130" width="370" height="180" as="geometry" />
+        <mxCell id="KslFYSPMrBS0eJ-jhUQJ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;jumpSize=6;" edge="1" parent="1" source="KslFYSPMrBS0eJ-jhUQJ-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KslFYSPMrBS0eJ-jhUQJ-2" value="&lt;h1 style=&quot;line-height: 120%;&quot;&gt;&lt;font style=&quot;font-size: 31px;&quot;&gt;Pavilony&lt;/font&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="90" width="370" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KslFYSPMrBS0eJ-jhUQJ-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="320" width="265" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
